@@ -15,7 +15,7 @@ global.gopay = '081370599523'
 //=============『 Info Bot 』=================//
 global.namebot = 'Holer-GTPS'
 global.gc = 'https://chat.whatsapp.com/L7FZpRDMCbFB6yHJ2BgZAM'
-global.web = 'https://github.com/Akmal' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'xnxx.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
